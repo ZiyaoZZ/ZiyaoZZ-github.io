@@ -17,9 +17,9 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Home", icon: dolphin,file: "home.md"}
-  - {title: "CV", icon: adress-card,file:"CV.pdf"}
-  - {title: "Papers", icon: print,file: "papers.html"}
-  - {title: "Posters", icon: projector,file: "posters.html"}
+  - {title: "CV", icon: files,file:"CV.pdf"}
+  - {title: "Papers", icon: print,file: "papers.md"}
+  - {title: "Posters", icon: projector,file: "posters.md"}
 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons

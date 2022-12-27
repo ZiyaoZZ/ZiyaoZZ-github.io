@@ -19,6 +19,14 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "CV", file:"ziyao.pdf"}
   - {title: "Papers", file: "index.html"}
   - {title: "Posters", file: "indexposter.html"}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "ziyaopsy@gmail.com"}
